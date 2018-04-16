@@ -117,7 +117,4 @@ if __name__ == "__main__":
 	open_GUI()
                   
 
-#CSC586A-Navpreet-Kaur-V00823334
-#CSC586A-Parminder-Kaur-V00820508
-#CSC586A-Simar-Arora-V00824821
      
